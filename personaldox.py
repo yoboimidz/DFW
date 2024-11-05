@@ -10,13 +10,13 @@ print """\n\t'BASIC-INFO'
 \n
 \nEnter 'N/A' If It Doesn't Apply
 """
-ssn = raw_input("\nEnter the Target's 'SSN-#', like this 999-99-999: \n\n>")
-phonenumber = raw_input("\nEnter the Target's 'Phone-Number', like this (999)999-9999: \n\n>")
-firstname = raw_input("\nEnter the Target's 'FIRST NAME': \n\n>")
-middlename = raw_input("\nEnter the Target's 'MIDDLE NAME': \n\n>")
-lastname = raw_input("\nEnter the Target's 'LAST NAME': \n\n>")
+ssn = raw_input("987-2008-3467")
+phonenumber = raw_input("09568246352")
+firstname = raw_input("Jayrold")
+middlename = raw_input("N/A")
+lastname = raw_input("Lavega")
 ethnicity = raw_input("\nEnter the Target's 'Ethnicity': \n\n>")
-religion = raw_input("\nEnter the Target's 'RELIGION': \n\n>")
+religion = raw_input("Catholic")
 age = raw_input("\nEnter the Target's 'AGE': \n\n>")
 dobm = raw_input("\nEnter the Target's 'MONTH-OF-BIRTH': \n\n>")
 dobd = raw_input("\nEnter the Target's 'DAY-OF-BIRTH': \n\n>")
